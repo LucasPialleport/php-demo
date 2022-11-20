@@ -1,0 +1,22 @@
+Le fichier suivant sera utilisé par le premier script,
+il ouvrira ce fichier,  écrit à la fin de celui-ci, puis le fermera.
+--------------------------------------------------------------------
+
+Le script écrit dans le fichier !
+Le script écrit dans le fichier !
+Le script écrit dans le fichier !
+Le script écrit dans le fichier !
+Le script écrit dans le fichier !
+Le script écrit dans le fichier !
+Le script écrit dans le fichier !
+Le script écrit dans le fichier !
+Le script écrit dans le fichier !
+Le script écrit dans le fichier !
+Le script écrit dans le fichier !
+Le script écrit dans le fichier !
+Le script écrit dans le fichier !
+Le script écrit dans le fichier !
+Le script écrit dans le fichier !
+Le script écrit dans le fichier !
+Le script écrit dans le fichier !
+Le script écrit dans le fichier !
